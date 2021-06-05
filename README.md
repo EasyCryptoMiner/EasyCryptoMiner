@@ -16,6 +16,8 @@ This software is made for people how want a quick, easy, free of devs fee way to
 ## Setup
 How to setup : 
 
+0. install java, or update if necessary.
+
 1. Unzip the files into a folder, that folder name doesn't matter.
 
 2. Start the executable, it will create a 'miners' directory in wich you will place your miner executable.
